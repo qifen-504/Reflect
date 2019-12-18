@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="101" class="cn.xdl.bean.Person">
+        <property   name="name" value="zhangf"/>
+        <property name="age" value="18"/>
+    </bean><bean id="102" class="cn.xdl.bean.Person">
+        <property name="name" value="guany"/>
+        <property name="age" value="19"/>
+    </bean>
+</beans>
